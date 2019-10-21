@@ -22,7 +22,7 @@ The system is based on a *case* that can contain one or more *modules*. The conc
 ## 2.2 Case
 
 #### C100
-*Convention:* The case is an enclosure whose *internal* dimensions equals to one, or more, *cells*.
+*Convention:* The case is an enclosure whose *internal* dimensions equals to one, or more, *cell* widths (3inches).
 
 #### C101
 *Convention*: most modules (e.g. drawers) expect that they will be secured from the front to prevent opening during transport and storage within the case. Therefore it is the responsibility of the user to ensure that the configuration they adopt prevents free forward movement of a module, if necessary (note that some cases that are not portable may not have a front cover, or require any securing of the modules). See design guides sections for examples of securing the modules.
