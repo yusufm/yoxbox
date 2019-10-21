@@ -6,8 +6,9 @@ This project is meant to be an opensource design for a modular storage and work 
 
 ## 1.1 Terminology
 
- - ***Conventions***: which must be followed if you intend to ensure that parts are interchangeable and compatible within the system. These are numbered as C100 (for cases) and M100 (for modules). 
- - ***Guidelines***: are helpful suggestions to follow, but do not necessarily break the interchangeability of the system. These are numbered as C200 (for cases) and M200 (for modules).
+***Conventions***: which must be followed if you intend to ensure that parts are interchangeable and compatible within the system. These are numbered as C100 (for cases) and M100 (for modules). 
+ 
+***Guidelines***: are helpful suggestions to follow, but do not necessarily break the interchangeability of the system. These are numbered as C200 (for cases) and M200 (for modules).
 
 # 2. System description
 
