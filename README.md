@@ -49,10 +49,10 @@ Case designs are based on an *A* and *B* half.
 The *A* half is expected to be a rectangular case of length L, height H, and depth D.
 
 The *B* half is expected to be either:
- - none (wall mounted storage may not require a front cover).
- - mirror of the *A* half.
- - a flat sheet of similar length and height as half *A*.
- - a window shutter design variation of the above.
+- none (e.g. wall mounted storage may not require a front cover).
+- mirror of the *A* half.
+- a flat sheet of similar length and height as half *A*.
+- a window shutter design variation of the above.
 
 The *A* and *B* are connected via a hinge on the bottom or side, based on required orientations.
 
