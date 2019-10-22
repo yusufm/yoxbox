@@ -16,6 +16,8 @@ The system is based on a *case* that can contain one or more *modules*. The conc
 
 ## 2.1 Cell
 
+<img src="images/cell_ext.png" width="300">
+
 #### Cell100
 *Convention:* The cell is defined as 3inch sized cube. This is a core concept of the system and provides the basis to build interchangeable modules.
 
@@ -48,11 +50,16 @@ Case designs are based on an *A* and *B* half.
 
 The *A* half is expected to be a rectangular case of length L, height H, and depth D.
 
+<img src="images/case_int.png" width="300">
+
 The *B* half is expected to be either:
 - none (e.g. wall mounted storage may not require a front cover).
-- mirror of the *A* half.
 - a flat sheet of similar length and height as half *A*.
+<img src="images/case_b1.png" width="300">
+- mirror of the *A* half.
+<img src="images/case_b2.png" width="300">
 - a window shutter design variation of the above.
+<img src="images/case_b3.png" width="300">
 
 The *A* and *B* are connected via a hinge on the bottom or side, based on required orientations.
 
